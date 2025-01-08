@@ -1,2 +1,3 @@
 # Codes-I
-In this repository contains basic Java  Fundamentals codes 
+This repository contains Fundamental looping problems
+
